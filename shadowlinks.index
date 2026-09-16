@@ -3,7 +3,7 @@
 	<info>
 		<name>ShadowLinks Index</name>
 		<description>various setting and character options for D&amp;D 5e</description>
-		<update version="0.0.1">
+		<update version="0.0.2">
 			<file name="shadowlinks.index" url="https://github.com/ShadowLinks/ShadowLinks-Aurora-Elements/raw/refs/heads/main/shadowlinks.index"/>
 		</update>
 	</info>
