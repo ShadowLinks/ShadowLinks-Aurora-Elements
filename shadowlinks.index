@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Omeria</name>
+		<description>various setting and character options for D&amp;D 5e</description>
+		<update version="0.0.1">
+			<file name="shadowlinks.index" url="https://raw.githubusercontent.com/ShadowLinks/assorted-elements/main/shadowlinks.index"/>
+		</update>
+	</info>
+    <files>
+        <file name="northlands.index" url="https://github.com/shadowlinks/northlands-elements/raw/refs/heads/main/northlands.index" />
+        <file name="links.index" url="https://github.com/shadowlinks/assorted-elements/raw/refs/heads/main/wyrmslayer/wyrmslayer.index" />
+        <file name="links.index" url="https://raw.githubusercontent.com/shadowlinks/kibblestasty-elements/refs/heads/main/kibblestasty.index" />
+        <file name="links.index" url="https://raw.githubusercontent.com/shadowlinks/omeria-elements/main/omeria.index" />
+        <file name="links.index" url="https://raw.githubusercontent.com/shadowlinks/solasta-elements/refs/heads/main/solasta.index" />
+        <file name="links.index" url="https://raw.githubusercontent.com/shadowlinks/svilland-elements/main/svilland.index" />
+        <file name="links.index" url="https://raw.githubusercontent.com/shadowlinks/silverplate-elements/refs/heads/main/silverplate.index" />
+        <file name="links.index" url="https://github.com/shadowlinks/fools-gold-elements/raw/refs/heads/main/foolsgold.index" />
+        <file name="links.index" url="https://raw.githubusercontent.com/shadowlinks/tanares/refs/heads/main/tanares.index" />
+    </files>
+</index>
