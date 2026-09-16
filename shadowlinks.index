@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
 	<info>
-		<name>Omeria</name>
+		<name>ShadowLinks Index</name>
 		<description>various setting and character options for D&amp;D 5e</description>
 		<update version="0.0.1">
 			<file name="shadowlinks.index" url="https://github.com/ShadowLinks/ShadowLinks-Aurora-Elements/raw/refs/heads/main/shadowlinks.index"/>
