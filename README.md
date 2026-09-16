@@ -1,6 +1,10 @@
 # ShadowLinks-Aurora-Elements
 collection of the indexes i have created
 
+Combined index file
+
+https://raw.githubusercontent.com/ShadowLinks/ShadowLinks-Aurora-Elements/refs/heads/main/shadowlinks.index
+
 # Tanares RPG
 
 https://raw.githubusercontent.com/ShadowLinks/tanares/refs/heads/main/tanares.index
